@@ -1,0 +1,24 @@
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.deps.json
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.dll
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.pdb
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.AssemblyInfoInputs.cache
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.AssemblyInfo.cs
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.sourcelink.json
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.dll
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\refint\CodeAcademyWebsite.DAL.dll
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.pdb
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\ref\CodeAcademyWebsite.DAL.dll
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.deps.json
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.dll
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.pdb
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.csproj.AssemblyReference.cache
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.AssemblyInfoInputs.cache
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.AssemblyInfo.cs
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.csproj.CoreCompileInputs.cache
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.dll
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\refint\CodeAcademyWebsite.DAL.dll
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\CodeAcademyWebsite.DAL.pdb
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.DAL\obj\Debug\net6.0\ref\CodeAcademyWebsite.DAL.dll

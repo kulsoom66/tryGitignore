@@ -1,0 +1,31 @@
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.BLL.deps.json
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.BLL.dll
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.BLL.pdb
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.dll
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.pdb
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.csproj.AssemblyReference.cache
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.AssemblyInfoInputs.cache
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.AssemblyInfo.cs
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.sourcelink.json
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.csproj.CopyComplete
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.dll
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\refint\CodeAcademyWebsite.BLL.dll
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.pdb
+C:\Users\Kulsoom\Desktop\CA Project Final\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\ref\CodeAcademyWebsite.BLL.dll
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.BLL.deps.json
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.BLL.dll
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.BLL.pdb
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.dll
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\bin\Debug\net6.0\CodeAcademyWebsite.DAL.pdb
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.csproj.AssemblyReference.cache
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.AssemblyInfoInputs.cache
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.AssemblyInfo.cs
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.csproj.CoreCompileInputs.cache
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.csproj.CopyComplete
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.dll
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\refint\CodeAcademyWebsite.BLL.dll
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\CodeAcademyWebsite.BLL.pdb
+D:\MyWork\CodeAcademyProject\CodeAcademyWebsite\CodeAcademyWebsite.BLL\obj\Debug\net6.0\ref\CodeAcademyWebsite.BLL.dll

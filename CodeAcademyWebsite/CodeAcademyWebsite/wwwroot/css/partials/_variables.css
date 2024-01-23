@@ -1,0 +1,32 @@
+﻿html, body {
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+/* CSS Variables */
+
+:root {
+    --Main-Background: #395483;
+    --Small-Card: #D7D0E8; /* dark background*/
+    --Small-Card1: #F6F4FB; /* light  background*/
+    --Side-Bar: #455E8A;
+    --Main-Card: #F6F4FB; /* light  background*/
+    --Btn: #D7D0E8;
+    --Btn2: #F6F4FB; /* (Search ,All,,,,,)*/
+
+    --title-color: #141313;
+    --text-color: black;
+    --text-color1: #052659;
+    --text-color2: linear-gradient(90deg, #EF507B 0%, #EF507B 100%);
+    --Small-text: #898484; /* (لشرح الوصفي)*/
+    --border-color: #201f1f17;
+    --Arabic: #DAB1BE;
+    --shadow-color: 0px 10px 30px rgba(118, 85, 225, 0.3);
+    --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+    --Inter1: 'Inter1'Inter-ExtraLight;
+    --Inter2: 'Inter2';
+    --Inter3: 'Inter3';
+    --Bellota: 'Bellota',Bellota-Bold;
+}
